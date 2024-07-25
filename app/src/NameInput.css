@@ -1,0 +1,41 @@
+.guessName{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12%;
+}
+
+#guess{
+    background-color: #041069;
+    font-size: 1vw;
+    padding: 1vh 1vw;
+}
+
+.guessModal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+}
+
+#guessLabel{
+    color: #041069;
+    font-weight: bold;
+    font-size: 1.1vw;
+}
+
+#guessName{
+    background-color: white;
+    color: #041069;
+    font-weight: bold;
+    font-size: 1vw;
+    padding: 0.2vh 0.5vw;
+}
+
+#nameGuessSubmit{
+    font-size: 1vw;
+    font-weight: bold;
+    padding: 0.3vh 0.5vw;
+    background-color: black;
+    color: yellow;
+}

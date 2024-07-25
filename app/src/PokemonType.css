@@ -1,0 +1,26 @@
+.typeContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 10vw;
+    height:10vw;
+    border-radius: 50%;
+    border: 3px solid yellow;
+    position: absolute;
+    left: 6.5%;
+    top: 28vw;
+}
+
+#typeHeading{
+    padding-left: 0.5vw;
+    color: yellow;
+    font-size: 1vw;
+}
+
+#typeLabel{
+    padding: 0.5vw;
+    font-weight: bold;
+    color: white;
+    font-size: 1vw;
+}
